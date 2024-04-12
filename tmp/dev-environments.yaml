@@ -3,3 +3,6 @@ develop:
   - dev1
   - qa4
 
+extra:
+  develop: dev1
+  stage: qa4

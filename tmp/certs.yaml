@@ -1,5 +1,5 @@
-dev:
+dev1:
   public: "public_dev_cert"
 
-npqa:
+qa4:
   public: "public_npqa_cert"

@@ -6,3 +6,7 @@ dev1:
 qa4:
   profile_name: npqa
   ssl_cert_name: npqa
+
+extra:
+  develop: dev1
+  stage: qa4

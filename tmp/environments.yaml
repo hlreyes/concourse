@@ -1,0 +1,8 @@
+# Development
+dev1:
+  profile_name: dev
+  ssl_cert_name: dev
+
+qa4:
+  profile_name: npqa
+  ssl_cert_name: npqa

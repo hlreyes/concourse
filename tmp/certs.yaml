@@ -1,0 +1,5 @@
+dev:
+  public: "public_dev_cert"
+
+npqa:
+  public: "public_npqa_cert"
